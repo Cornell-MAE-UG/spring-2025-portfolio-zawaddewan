@@ -12,13 +12,13 @@ title                    : Zawad Dewan
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Zawad Dewan
-description              : Zawad Dewan - Projects and CV 
-baseurl                  : "/spring-2025-portfolio-Zawad/" # Set this to "portfolio-<your-github-username>" 
-url                      : "https://cornell-mae-ug.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : Zawad Dewan - Projects and CV
+baseurl                  : "/spring-2025-portfolio-zawaddewan/"
+url                      : "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: dark # light/default, dark, or aqua
+color_scheme: aqua # light/default, dark, or aqua
 
 sass:
   style: compressed
